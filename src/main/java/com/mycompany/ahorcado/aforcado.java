@@ -47,6 +47,7 @@ public class aforcado {
         System.out.println("¿Que letra quiere probar?");
         char letrita = informacion.nextLine().charAt(0);
         rellenarArray(letrita);
+        //comentarios absurdos para ver si esto funciona
     }
 
     private void rellenarArray(char letrita) {
