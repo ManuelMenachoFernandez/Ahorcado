@@ -14,6 +14,7 @@ public class Ahorcado {
     public static void main(String[] args) {
         aforcado alolcadoUno =new aforcado();
         alolcadoUno.xogar();
-        
+        //este si que es el proyecto
+        //samu gracias por salvarme de las BUI eres un héroe nacional en menacholandia
     }
 }
